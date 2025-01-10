@@ -6,6 +6,8 @@ This project aims to evaluate the potential of off-grid solar energy systems in 
 
 Access to reliable electricity is crucial for socioeconomic development, yet many regions in the Global South face significant barriers to grid connectivity. This project investigates how off-grid solar energy systems, such as Solar Home Systems (SHS) and mini-grids, can bridge this gap. The report outlines the critical role of policies, infrastructure, and technology in scaling these systems, focusing on challenges such as high upfront costs, lack of maintenance frameworks, and fragmented policy support. By emphasizing the role of advanced technologies like IoT-based monitoring and smart grids, the study provides actionable recommendations for fostering long-term sustainable development. Our report explores socioeconomic impacts of off-grid solar systems, challenges in sustainability and maintenance, policy and regulatory frameworks, integration of technology with infrastructure, and gender and equity considerations. Our findings advocate for a multi-faceted approach combining policy, technology, and community involvement to achieve Sustainable Development Goal 7: universal access to affordable, reliable, and sustainable energy.
 
+--- 
+
 ## Authors
 * Ava Friesen
 * Angelina Lu
